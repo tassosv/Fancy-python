@@ -305,9 +305,9 @@ We are not advised to use from library import * because it can import a lot of u
 <a name = 'con'></a>
 ### Conclusion and further reading
 
-Those were some Python tricks that I believe would help everyone. Herea are some more links to keep you busy. Keep learning.
+Those were some Python tricks that I believe would help everyone. Here are some more links to keep you busy. Keep learning.
 
-- [A walkthru on writing better functions in Python](https://towardsdatascience.com/a-walkthru-for-writing-better-functions-6cb37f2fa58c)
+- [A walkthrough on writing better functions in Python](https://towardsdatascience.com/a-walkthru-for-writing-better-functions-6cb37f2fa58c)
 - [Upgrading python lists](https://towardsdatascience.com/upgrading-python-lists-35440096ec36)
 - [How to be fancy with OOP in Python](https://towardsdatascience.com/how-to-be-fancy-with-python-part-2-70fab0a3e492)
 - [Some neat Jupyter tricks](https://medium.com/swlh/some-neat-jupyter-tricks-be0775c3f17).
